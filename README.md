@@ -1,6 +1,19 @@
 # Dietpedia Apps #
-
 Aplikasi untuk referensi diet berbasis Android
+
+# InApp #
+- `Welcome Screen`
+
+  - <img src="splash.png" width="300"/>
+
+- `Search Menu`
+
+  - <img src="search.png" width="300"/>
+
+- `Article Menu`
+
+  - <img src="article.png" width="300"/>
+
 
 # Installation #
 
